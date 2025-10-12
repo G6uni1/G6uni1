@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+class Guilherme():
+    
+  def __init__(self):
+    self.name = "Guilherme"
+    self.username = "G6uni1"
+    self.location = "404 not found"
+    self.web = "https://github.com/G6uni1"
+    self.hardskill = "Learning C#, Phyton"
+  
+  def __str__(self):
+    return self.name
+
+if __name__ == '__main__':
+    me = Guilherme()
