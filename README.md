@@ -1,30 +1,11 @@
-## Hi there 👋
+<h2 align="left">My Stats</h2>
 
-<!--
-**G6uni1/G6uni1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=G6uni1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=G6uni1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=G6uni1&radius=16&theme=noctis-minimus&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-class Guilherme():
-    
-  def __init__(self):
-    self.name = "Guilherme"
-    self.username = "G6uni1"
-    self.location = "404 not found"
-    self.web = "https://github.com/G6uni1"
-    self.hardskill = "Learning C#, Phyton"
-  
-  def __str__(self):
-    return self.name
-
-if __name__ == '__main__':
-    me = Guilherme()
+###
