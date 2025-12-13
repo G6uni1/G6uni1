@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Hi, my name is Luiz Guilherme. I’m a Systems Analysis and Development student passionate about technology, programming, and innovation.</p>
+<p align="left">- Hi, my name is Luiz Guilherme. I’m a Systems Analysis and Development passionate about technology, programming, and innovation.</p>
 
 ###
 
