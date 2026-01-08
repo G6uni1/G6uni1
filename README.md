@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Hi, my name is Luiz Guilherme. I’m a Systems Analysis and Development passionate about technology, programming, and innovation.</p>
+<p align="left">- Hi, my name is Luiz Guilherme. I’m a Systems Development passionate about technology, programming, and innovation.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍💻 Systems Analysis and Development student<br>🔥 Exploring the world of programming with C#, MySql, Python<br>☁️ Learning about cloud computing and security<br>🌱 Always learning and building new things</p>
+<p align="left">👨‍💻 Software Engineering student <br>🔥 Exploring the world of programming with C#, MySql, Python<br>☁️ Learning about cloud computing and security<br>🌱 Always learning and building new things</p>
 
 ###
 
