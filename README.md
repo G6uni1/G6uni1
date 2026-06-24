@@ -1,52 +1,68 @@
-<h2 align="left">👋 Hi there, Welcome to my Github profile</h2>
+## 🚀 About Me
 
-###
+Software Engineering student passionate about backend development, software architecture, and problem-solving.
 
-<p align="left">- Hi, my name is Luiz Guilherme. I’m a Systems Development passionate about technology, programming, and innovation.</p>
+I enjoy building APIs, working with databases, and learning how modern software systems are designed and secured.
 
-###
+Currently focused on developing practical projects using Python and modern backend technologies while continuously improving my engineering skills.
 
-<h2 align="left">About ME</h2>
+---
 
-###
+## 💻 Tech Stack
 
-<p align="left">👨‍💻 Software Engineering student <br>🔥 Exploring the world of programming with C#, MySql, Python<br>☁️ Learning about cloud computing and security<br>🌱 Always learning and building new things</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
-###
+---
 
-<h2 align="left">Techs</h2>
+## 🎯 Skills
 
-###
+* Backend Development
+* REST API Development
+* Database Modeling
+* SQL Queries
+* Git & Version Control
+* Authentication with JWT
+* Problem Solving
+* Team Collaboration
+* English (Intermediate)
+* Portuguese-BR (Native)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-</div>
+---
 
-###
+## 📚 Currently Learning
 
-<h2 align="left">My Stats</h2>
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-In%20Progress-336791?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docker-In%20Progress-2496ED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System%20Design-Learning-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-Learning-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Information%20Security-Learning-FF5722?style=for-the-badge"/>
+</p>
 
-###
+### Future Learning Goals
+
+* Cloud Computing
+* CI/CD Pipelines
+* Kubernetes
+* Microservices
+* Software Testing
+* Design Patterns
+* Advanced System Architecture
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=G6uni1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=G6uni1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=G6uni1&radius=16&theme=noctis-minimus&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=G6uni1&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G6uni1&layout=compact&theme=tokyonight"/>
 </div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/luiz-guilherme-a32059376/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/guilheer_me.silva/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
